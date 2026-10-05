@@ -13,3 +13,7 @@ build/
 轨迹/
 录屏/
 视频/
+
+# 项目运行时产物
+hood.db*
+uploads/
